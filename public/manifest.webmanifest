@@ -1,0 +1,10 @@
+{
+  "name": "내게 맞는 지원금",
+  "short_name": "지원금",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f7f9",
+  "theme_color": "#1e5eff",
+  "lang": "ko",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
